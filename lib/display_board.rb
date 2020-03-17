@@ -7,4 +7,3 @@ def display_board
 end# Define a method
 
  display_board
- 
